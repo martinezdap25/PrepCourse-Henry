@@ -1,2 +1,4 @@
 # PrepCourse-Henry
-Descripción de prueba 
+Ignacio Martinez
+
+Prueba de como clonar un proyecto desde git en la computadora.
